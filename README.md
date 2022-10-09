@@ -1,2 +1,2 @@
 # carousel
-Custom carousel
+Custom carousel/Vanilla JavaScript 
